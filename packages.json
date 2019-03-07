@@ -1,0 +1,9 @@
+{
+  "name": "xpress7/apiato",
+  "version": "dev-master",
+  "source": {
+    "url": "https://github.com/xpress7/apiato",
+    "type": "vcs",
+    "reference": "master"
+  }
+}
